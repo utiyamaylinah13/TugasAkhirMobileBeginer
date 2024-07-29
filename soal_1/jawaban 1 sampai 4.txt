@@ -1,0 +1,36 @@
+1. Variable dan Tipe Data dalam Bahasa Kotlin
+  Variable
+  - val : Untuk variabel yang nilainya tidak dapat diubah (immutable).
+  - var : Untuk variabel yang nilainya dapat diubah (mutable).
+
+  Tipe Data
+  1. Angka (Numerik):
+  - Byte, Short, Int, Long (bilangan bulat)
+  - Float, Double (bilangan desimal)
+  2. Karakter (Character):
+  - Char
+  3. Boolean:
+  - Boolean (true/false)
+  4. String:
+  - String (teks)
+  5. Array:
+  - Array (kumpulan data dengan tipe yang sama)
+
+2. Percabangan dalam Bahasa Pemrograman Kotlin
+  1. if dan else :
+   - Menggunakan blok kondisi sederhana untuk memeriksa satu atau beberapa kondisi.
+  2. when :
+   - Mengganti beberapa pernyataan `if-else if-else` untuk kondisi yang lebih kompleks atau banyak nilai.
+   Perbedaan:
+   - if dan else : Cocok untuk kondisi sederhana.
+   - when : Lebih bersih dan mudah dibaca untuk banyak kondisi atau nilai.
+
+3. Function dalam Bahasa Kotlin
+     Fungsi adalah blok kode yang dapat digunakan kembali untuk menjalankan tugas tertentu      Fungsi dapat menerima parameter dan mengembalikan nilai.
+
+4. Function Generic dalam Kotlin
+   Fungsi generic memungkinkan kita untuk menulis fungsi yang dapat bekerja dengan berbagai tipe data tanpa menduplikasi kode. Fungsi ini didefinisikan menggunakan parameter tipe dalam tanda kurung sudut (`<>`).
+   Perbedaan:
+   - Fungsi biasa : Bekerja dengan tipe data tertentu yang telah ditentukan.
+   - Fungsi generic: Bekerja dengan berbagai tipe data menggunakan satu definisi fungsi yang sama. text
+
